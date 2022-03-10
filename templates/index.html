@@ -1,0 +1,21 @@
+<html>
+<body>
+    <h3>Coding Challenge - Text Classification</h3>
+ 
+<div>
+  <form action="/predict" method="POST">
+    <label for="Input text">Input</label>
+    <input type="text" name="Input Text" placeholder="Enter Text" required="required" />
+	<br>
+	<br>
+	<button type="submit" >Predict Label</button>
+  </form>
+  
+  <br>
+  <br>
+  {{ prediction_text }}
+  
+  
+</div>
+</body>
+</html>
