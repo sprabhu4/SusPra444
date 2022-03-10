@@ -1,14 +1,16 @@
-Flask==1.1.1
 gunicorn==19.9.0
 itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
-Werkzeug==0.15.5
-numpy>=1.9.2
-scipy>=0.15.1
-scikit-learn>=0.18
-matplotlib>=1.4.3
-pandas>=0.19
-nltk == 3.5
-HanTa == 0.2.0
-joblib == 1.1.0
+HanTa==0.2.0
+joblib==1.0.1
+matplotlib==3.3.4
+nltk==3.6.1
+numpy==1.20.1
+pandas==1.2.4
+seaborn==0.11.1
+session_info==1.0.0
+sklearn==0.24.1
+wordcloud==1.8.1
+flask==1.1.2
+werkzeug==1.0.1
