@@ -19,3 +19,5 @@ Run Instructions : <br>
 2. Run the app.py code in the prompt window in the folder location 
 3. A local URL displayed can be opened on the web browser and the webpage will appear
 4. Feed in the text to get the output label
+
+MODEL DEPLOYED ON HEROKU : https://text-classificication.herokuapp.com/
