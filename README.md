@@ -20,4 +20,4 @@ Run Instructions : <br>
 3. A local URL displayed can be opened on the web browser and the webpage will appear
 4. Feed in the text to get the output label
 
-MODEL DEPLOYED ON HEROKU : https://text-classificication.herokuapp.com/
+THE MODEL IS ALSO DEPLOYED ON HEROKU : https://text-classificication.herokuapp.com/
